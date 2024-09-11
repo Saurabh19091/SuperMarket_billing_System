@@ -1,0 +1,59 @@
+Welcome To Super Market Billing System
+***************************************
+1. Add Item
+2. Print Bill
+3. Exit
+Enter Choice: 1
+
+Enter Item Name: Apple
+Enter Rate of Item: 100
+Enter Quantity of Item: 5
+
+Item Added Successfully
+
+Welcome To Super Market Billing System
+***************************************
+1. Add Item
+2. Print Bill
+3. Exit
+Enter Choice: 1
+
+Enter Item Name: Banana
+Enter Rate of Item: 50
+Enter Quantity of Item: 10
+
+Item Added Successfully
+
+Welcome To Super Market Billing System
+***************************************
+1. Add Item
+2. Print Bill
+3. Exit
+Enter Choice: 2
+
+Enter Item: Apple
+Enter Quantity: 3
+
+ Item  | Rate | Quantity | Amount
+ Apple     100     3     300
+
+Enter Item: Banana
+Enter Quantity: 5
+
+ Item  | Rate | Quantity | Amount
+ Banana     50     5     250
+
+Choose Discount Type:
+1. No Discount
+2. Flat Discount
+3. Percentage Discount
+4. Coupon Discount
+Enter Choice: 4
+
+Enter Coupon Code: SAVE10
+
+Coupon Applied: SAVE10, Discount: 10.0%
+
+Total Amount: 550
+Final Amount after Discount: 495
+Thank you for shopping!
